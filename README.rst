@@ -99,6 +99,8 @@ Programming Languages Implementation
 * `ZetaVM <https://github.com/zetavm/zetavm>`_
 * Ethereum
     - `EVM JIT <https://github.com/ethereum/evmjit>`_
+* MATLAB
+    - `RunMat <https://github.com/runmat-org/runmat>`_ – MATLAB-syntax runtime with a tiered JIT (Cranelift) and GPU-fused array kernels.
 
 
 
